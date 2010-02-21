@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+
+	<song>
+		<track>1</track>
+		<mp3>01-ccstream-email_blues.mp3</mp3>
+		<shortName>email</shortName>
+		<offset>-8</offset>
+	</song>
+
+	<song>
+		<track>2</track>
+		<mp3>02-ccstream-head_cutting.mp3</mp3>
+		<shortName>head</shortName>
+		<offset>-5</offset>
+	</song>
+
+	<song>
+		<track>3</track>
+		<mp3>03-ccstream-house.mp3</mp3>
+		<shortName>house</shortName>
+		<offset>-2</offset>
+	</song>
+	
+	<song>
+		<track>4</track>
+		<mp3>04-ccstream-ratman.mp3</mp3>
+		<shortName>ratman</shortName>
+		<offset>-4</offset>
+	</song>
+	
+	<song>
+		<track>5</track>
+		<mp3>05-ccstream-bad_and_worse.mp3</mp3>
+		<shortName>bad</shortName>
+		<offset>-6</offset>
+	</song>
+	
+	<song>
+		<track>6</track>
+		<mp3>06-ccstream-poverty_game.mp3</mp3>
+		<shortName>poverty</shortName>
+		<offset>-3</offset>
+	</song>
+	
+	<song>
+		<track>7</track>
+		<mp3>07-ccstream-strange_fruit.mp3</mp3>
+		<shortName>strange</shortName>
+		<offset>-10</offset>
+	</song>
+	
+	<song>
+		<track>8</track>
+		<mp3>08-ccstream-highway_seven.mp3</mp3>
+		<shortName>highway</shortName>
+		<offset>-9</offset>
+	</song>
+	
+	<song>
+		<track>9</track>
+		<mp3>09-ccstream-quake.mp3</mp3>
+		<shortName>quake</shortName>
+		<offset>-10</offset>
+	</song>
+	
+	<song>
+		<track>10</track>
+		<mp3>10-ccstream-road_to_fate.mp3</mp3>
+		<shortName>road</shortName>
+		<offset>-9</offset>
+	</song>
+	
+	<song>
+		<track>11</track>
+		<mp3>11-ccstream-stock'n_roll.mp3</mp3>
+		<shortName>stock</shortName>
+		<offset>-8</offset>
+	</song>
+	
+	<song>
+		<track>12</track>
+		<mp3>12-ccstream-spoonful.mp3</mp3>
+		<shortName>spoon</shortName>
+		<offset>-4</offset>
+	</song>
+	
+</songs>
