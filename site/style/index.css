@@ -1,0 +1,78 @@
+body {
+        margin: 0px;
+        padding: 0px;
+        background-color: #fe0;
+        font-family: Arial;
+        font-size: 10px;
+        font-weight: bold;
+}
+img {
+        margin: 0px;
+        padding: 0px;
+        border: 0px;
+}
+div {
+        margin: 0px;
+        padding: 0px;
+}
+a {
+        margin: 0px;
+        padding: 0px;
+        text-decoration: none;
+        color: #000;
+}
+#main_div {
+        margin: 0px;
+        padding: 0px;
+}
+#contact a {
+        color: #00e;
+}
+#info {
+        position: absolute;
+        left: 66%;
+        top: 75%;
+        z-index: 0;
+        width: 150px;
+        height: 80px;
+}
+
+.listen {
+        font-size: 12px;
+}
+.listen a {
+        color: #11d;
+}
+
+#flashPlayer {
+        position: absolute;
+        right: 0;
+        bottom: 0;
+}
+
+
+.awesome_button, .awesome_button:visited, .awesome_button:active {
+	background: #222 url(../img/alert-overlay.png) repeat-x;
+	display: inline-block;
+	padding: 5px 10px 6px;
+	margin-top: 30px;
+	color: #fff;
+	text-decoration: none;
+	font-family: Arial, Helvetica, 'Helvetica Neue', Verdana, sans-serif;
+	font-weight: bold;
+	font-size: 2em;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+	text-shadow: 0 -1px 1px rgba(0,0,0,0.25);
+	border-bottom: 1px solid rgba(0,0,0,0.25);
+	position: relative;
+	cursor: pointer;
+	background-color: #fc0082;
+}
+
+#second_album {
+	font-size: 15px;
+	margin-top: 30px;
+}

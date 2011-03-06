@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+
+    <song>
+        <track>1</track>
+        <name>Cadillac</name>
+        <mp3>01-ccstream-cadillac.mp3</mp3>
+        <shortName>cadillac</shortName>
+        <offset>0</offset>
+    </song>
+
+    <song>
+        <track>2</track>
+        <name>One Life</name>
+        <mp3>02-ccstream-one_life.mp3</mp3>
+        <shortName>life</shortName>
+        <offset>0</offset>
+    </song>
+
+    <song>
+        <track>3</track>
+        <name>Mask Or Face</name>
+        <mp3>03-ccstream-mask_or_face.mp3</mp3>
+        <shortName>mask</shortName>
+        <offset>0</offset>
+    </song>
+
+    <song>
+        <track>4</track>
+        <name>Cut'n'Dry</name>
+        <mp3>04-ccstream-cut-n-dry.mp3</mp3>
+        <shortName>cut</shortName>
+        <offset>0</offset>
+    </song>
+
+    <song>
+        <track>5</track>
+        <name>Nadine</name>
+        <mp3>05-ccstream-nadine.mp3</mp3>
+        <shortName>nadine</shortName>
+        <offset>0</offset>
+    </song>
+
+    <song>
+        <track>6</track>
+        <name>Respectable</name>
+        <mp3>06-ccstream-pespectable.mp3</mp3>
+        <shortName>pespectable</shortName>
+        <offset>0</offset>
+    </song>
+
+    <song>
+        <track>7</track>
+        <name>Haven't Got The Money</name>
+        <mp3>07-ccstream-haven-t_got_the_money.mp3</mp3>
+        <shortName>money</shortName>
+        <offset>0</offset>
+    </song>
+
+    <song>
+        <track>8</track>
+        <name>Screwed Up Mind</name>
+        <mp3>08-ccstream-screwed_up_mind.mp3</mp3>
+        <shortName>screwed</shortName>
+        <offset>0</offset>
+    </song>
+
+    <song>
+        <track>9</track>
+        <name>Be It The End</name>
+        <mp3>09-ccstream-be_it_the_end.mp3</mp3>
+        <shortName>end</shortName>
+        <offset>0</offset>
+    </song>
+
+</songs>
