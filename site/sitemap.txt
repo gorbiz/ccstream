@@ -1,15 +1,1 @@
-http://www.ccstream.com/
-http://www.ccstream.com/contact.html
-http://www.ccstream.com/cchistory.html
-http://www.ccstream.com/song.php?track=1
-http://www.ccstream.com/song.php?track=2
-http://www.ccstream.com/song.php?track=3
-http://www.ccstream.com/song.php?track=4
-http://www.ccstream.com/song.php?track=5
-http://www.ccstream.com/song.php?track=6
-http://www.ccstream.com/song.php?track=7
-http://www.ccstream.com/song.php?track=8
-http://www.ccstream.com/song.php?track=9
-http://www.ccstream.com/song.php?track=10
-http://www.ccstream.com/song.php?track=11
-http://www.ccstream.com/song.php?track=12
+http://www.ccstream.com/http://www.ccstream.com/contact.htmlhttp://www.ccstream.com/cchistory.htmlhttp://www.ccstream.com/song.php?track=1http://www.ccstream.com/song.php?track=2http://www.ccstream.com/song.php?track=3http://www.ccstream.com/song.php?track=4http://www.ccstream.com/song.php?track=5http://www.ccstream.com/song.php?track=6http://www.ccstream.com/song.php?track=7http://www.ccstream.com/song.php?track=8http://www.ccstream.com/song.php?track=9http://www.ccstream.com/song.php?track=10http://www.ccstream.com/song.php?track=11http://www.ccstream.com/song.php?track=12
