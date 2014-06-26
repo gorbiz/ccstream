@@ -92,27 +92,6 @@
         	font-size: 15px;
         	margin-top: 30px;
         }
-
-        .listen-to-radio {
-            font-size: 2em;
-        }
-        .listen-to-radio a {
-            color: blue;
-        }
-
-        .section-radio {
-            position: absolute;
-            left: 31%;
-            top: 35%;
-            padding: 0 2em 2em 2em;
-        }
-        .section-radio h2 {
-            margin: 0;
-            text-align: left;
-            font-size: 2em;
-            color: white;
-            text-shadow: black 0 0 4px;
-        }
     </style>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js" type="text/javascript"></script>
     <script type="text/javascript">
@@ -124,16 +103,6 @@
                 $("body").css('backgroundImage', 'url(img/background.jpg)');
             })
             .attr('src', 'img/background.jpg');
-
-            if (navigator.userAgent.match(/Android/i) ||
-                    navigator.userAgent.match(/webOS/i) ||
-                    navigator.userAgent.match(/iPhone/i) ||
-                    navigator.userAgent.match(/iPod/i) ||
-                    navigator.userAgent.match(/iPad/i) ||
-                    navigator.userAgent.match(/BlackBerry/)) {
-                // TODO Add something like this here
-                //$("body").prepend('<div class="listen-to-radio">Listen to the CCstream radio!<br /><a href="http://radio.ccstream.com:8000/stream.m3u">radio.ccstream.com:8000/stream.m3u</a></div>');
-            }
         });
     </script>
 
@@ -191,24 +160,6 @@
     		</span><br />
     		<?php endforeach; ?>
         </div>
-
     </div>
-
-    <div class="section-radio">
-        <h2>The all new CCstream Radio!</h2>
-	<p style="background: rgba(0, 0, 0, 0.75); padding: 1em; color: #eee; position: absolute; bottom: -40px; width: 320px;">
-		<a href="http://listen.spacial.com/api/listen/?mount=SAM06AAC059&method=sc" style="color: #eee; text-decoration: underline;">...or listen to the radio in your media player.</a>
-	</p>
-        <iframe src="http://media.spacial.com/player/sam-vibe/index.html?sid=656672"
-		width="340"
-		height="270"
-		scrolling="no"
-		frameborder="0"
-		marginheight="0"
-		marginwidth="0"
-		allowtransparency="true"
-		title="The iframe flash player display."/>
-    </div>
-
 </body>
 </html>
