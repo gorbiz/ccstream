@@ -85,7 +85,7 @@
             right: 15%;
             height: 68%;
             text-align: right;
-            margin-top: 10%;
+            margin-top: 2%;
         }
 
         #second-album {
@@ -160,6 +160,10 @@
     		</span><br />
     		<?php endforeach; ?>
         </div>
+
+				<iframe src="https://player.vimeo.com/video/183015711?title=0&byline=0&portrait=0" height="40%" style="margin-top: 1em;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+	      <p><a href="https://vimeo.com/183015711">Road To Fate</a> from <a href="https://vimeo.com/angelopone">Angelo Pone</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
     </div>
 </body>
 </html>
